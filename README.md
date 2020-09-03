@@ -6,7 +6,7 @@ Transparent, secure, fast and easy-to-use GraphQL and REST API for foreign excha
 
 # Getting started
 
-1. Get a free API key [here](https://swop.cx/account/register/developer)
+1. Get a [free API key](https://swop.cx/account/register/developer)
 2. Have a look at the [docs](https://swop.cx/documentation)
 
 # Support
