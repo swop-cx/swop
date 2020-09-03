@@ -1,3 +1,5 @@
+![](images/swop_logo_with_background_wide.png?raw=true)
+
 # SWOP - Foreign Exchange Rate API
 
 https://swop.cx
