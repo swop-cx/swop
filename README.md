@@ -1,4 +1,6 @@
-# SWOP - GraphQL and REST foreign exchange rate API
+# SWOP - Foreign Exchange Rate API
+
+https://swop.cx
 
 Transparent, secure, fast and easy-to-use GraphQL and REST API for foreign exchange rates and currency conversion.
 
